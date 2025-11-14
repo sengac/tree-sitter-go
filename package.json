@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-go",
-  "version": "0.25.5",
+  "version": "0.25.6",
   "description": "Go grammar for tree-sitter",
   "repository": "https://github.com/tree-sitter/tree-sitter-go",
   "license": "MIT",
