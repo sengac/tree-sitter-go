@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-go",
-  "version": "0.25.6",
+  "version": "0.25.7",
   "description": "Go grammar for tree-sitter",
   "repository": "https://github.com/tree-sitter/tree-sitter-go",
   "license": "MIT",
@@ -43,10 +43,10 @@
     "tree-sitter-cli": "^0.25.8"
   },
   "peerDependencies": {
-    "tree-sitter": "^0.25.0"
+    "@sengac/tree-sitter": "^0.25.6"
   },
   "peerDependenciesMeta": {
-    "tree-sitter": {
+    "@sengac/tree-sitter": {
       "optional": true
     }
   },
