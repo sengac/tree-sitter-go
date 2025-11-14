@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-go",
-  "version": "0.25.14",
+  "version": "0.25.15",
   "description": "Go grammar for tree-sitter",
   "repository": "https://github.com/sengac/tree-sitter-go",
   "license": "MIT",
@@ -57,5 +57,6 @@
     "test": "node --test bindings/node/*_test.js",
     "install": "node-gyp-build",
     "prebuildify": "prebuildify --napi --name node.napi"
-  }
+  },
+  "gypfile": false
 }
